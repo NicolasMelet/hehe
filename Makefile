@@ -1,4 +1,4 @@
-SRC	=	main.c
+SRC	=	hehe.c
 
 OBJ	=	$(SRC:.c=.o)
 
